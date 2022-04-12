@@ -1,0 +1,16 @@
+body{
+    background: gray;
+}
+table{
+    border-collapse:collapse;
+}
+td{
+    width:40pt;
+    height:40pt;
+}
+td.white{
+    background:white;
+}
+td.black{
+    background:black;
+}
